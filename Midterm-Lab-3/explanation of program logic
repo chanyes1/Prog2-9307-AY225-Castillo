@@ -1,0 +1,16 @@
+Explanation
+MP14
+    JAVA
+        -First, the program asks user for CSV file path to search and the keyword to search. The program then confirms if the dataset is found, if csv is invalid, it will display an error. If csv file is found it starts a function that looks for the keyword indicated in the csv file dataset and counts it, it will then display the output number
+    Javascript
+        .The program shows a webpage where the user enters the CSV file path and a keyword. It checks if the file exists and shows an error if it doesn’t. If the CSV is valid, it reads the dataset, skips any metadata, counts how many times the keyword appears in the data, and displays the total count on the page.
+MP15
+    JAVA
+        -First, the program asks user for CSV file path to search, then it will open the dataset file and create a new file by detecting the first 50 files after the columns of descriptions, it will then output this dataset file on the same folder it is in.
+    Javascript
+        .The program shows a webpage where the user enters the CSV file path. It checks if the file exists and shows an error if it doesn’t. If the CSV is valid, it reads the dataset, skips metadata, takes the first 50 rows after the header, writes them to a new CSV file in the main folder, and shows a confirmation message on the page.
+MP16
+    JAVA
+        -First, the program asks user for CSV file path to search, then it will open the dataset file and start from the column row, it will pick ten random non-duplicatin rows, using for loops, it prints each record of the 10 random row for the output on the terminal
+    Javascript
+        .The program shows a webpage where the user enters the CSV file path. It checks if the file exists and shows an error if it doesn’t. If the CSV is valid, it reads the dataset, skips metadata, picks 10 random rows, and displays the header and those rows as a table on the webpage.
