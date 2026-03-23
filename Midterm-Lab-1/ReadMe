@@ -1,0 +1,7 @@
+To run JAVA:
+    cd /Midterm-Lab-1
+    javac sales.java
+    java sales
+To run JS:
+    cd /Midterm-Lab-1
+    node sales.js
